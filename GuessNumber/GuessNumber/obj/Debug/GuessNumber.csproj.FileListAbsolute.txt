@@ -1,0 +1,7 @@
+C:\VisualStudioProjects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\VisualStudioProjects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+C:\VisualStudioProjects\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\VisualStudioProjects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+C:\VisualStudioProjects\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
